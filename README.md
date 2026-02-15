@@ -63,8 +63,7 @@ Contributions are welcome. Please open an issue at GitHub page before submitting
 
 ---
 
-### **License**
+### *License*
 
-License information are based on MIT License.
-
-Copyright (c) 2026 XoerisOS
+This project is licensed under the MIT License.  
+See the LICENSE file for details.
