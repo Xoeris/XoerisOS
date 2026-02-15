@@ -1,20 +1,20 @@
 # XoerisOS
 
-#### _Clean. Fast. Maximum._
+Clean. Fast. Maximum.
 
-**XoerisOS** is a lightweight Android-based operating system focused on performance optimization, system stability, and clean integration for development environments.
+XoerisOS is a lightweight Android-based operating system focused on performance optimization, system stability, and clean integration for development environments.
 
 ---
 
-### **Overview**
+## Overview
 
 XoerisOS is designed to provide a minimal and efficient base suitable for developers, kernel engineers, and advanced Android users. The system emphasizes clarity in configuration, clean boot implementation, and compatibility with generic kernels.
 
 ---
 
-### **Features**
+## Features
 
-- Debloat useless system and user apps
+- Debloated unnecessary system and user applications
 - Performance-optimized system build
 - Minimal and stable Android base
 - Flexible boot configuration
@@ -25,12 +25,21 @@ XoerisOS is designed to provide a minimal and efficient base suitable for develo
 
 ---
 
-### **Base Information**
-| Project Status   | Active Development |
+## Device Support
+
+| Brand    | Support Status |
+|----------|----------------|
+| Xiaomi   | Supported      |
+| POCO     | Supported      |
+| Redmi    | Supported      |
+| REDMAGIC | Supported      |
+| Oppo     | Supported      |
+| Realme   | Supported      |
+| Vivo     | Not Supported  |
 
 ---
 
-### **Intended Audience**
+## Intended Audience
 
 - Android developers
 - Kernel developers
@@ -39,7 +48,7 @@ XoerisOS is designed to provide a minimal and efficient base suitable for develo
 
 ---
 
-### **_Disclaimer!_**
+## Disclaimer
 
 XoerisOS is intended for development and testing purposes.  
 Flashing modified images may void warranties or permanently damage devices.
@@ -48,7 +57,7 @@ Users assume full responsibility for any modifications performed.
 
 ---
 
-### **Roadmap**
+## Roadmap
 
 - Advanced kernel tuning
 - Boot performance improvements
@@ -57,9 +66,9 @@ Users assume full responsibility for any modifications performed.
 
 ---
 
-### **Contributing**
+## Contributing
 
-Contributions are welcome. Please open an issue at GitHub page before submitting significant changes.
+Contributions are welcome. Please open an issue on the GitHub repository before submitting significant changes.
 
 ---
 
