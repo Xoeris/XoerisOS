@@ -1,6 +1,6 @@
 # XoerisOS
 
-Clean. Fast. Maximum.
+#### _Clean. Fast. Maximum._
 
 XoerisOS is a lightweight Android-based operating system focused on performance optimization, system stability, and clean integration for development environments.
 
