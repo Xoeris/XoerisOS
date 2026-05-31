@@ -78,6 +78,7 @@ XoerisOS2 brings massive upgrades to the SystemUI framework, layout stability, a
 *   Kernel developers
 *   ROM maintainers
 *   Advanced power users
+*   All people who want to use it. (If not brick) :v
 
 ---
 
