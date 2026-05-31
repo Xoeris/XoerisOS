@@ -1,17 +1,40 @@
-MIT License
+Xoeris OS Source-Available & End-User License
 
 Copyright (c) 2026 Xoeris
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+===============================================================================
+1. PERMITTED END-USER USE
+===============================================================================
+Permission is hereby granted, free of charge, to any person to download, flash, 
+and run this operating system ROM ("Software") on their personal device(s) 
+solely for personal, non-commercial use. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+===============================================================================
+2. STRICT PROHIBITIONS ON LOGIC, CODE, AND DECOMPILATION
+===============================================================================
+You do NOT have permission to extract, reuse, redistribute, or build upon the 
+custom modifications, unique logics, system scripts, custom configurations, 
+or proprietary source code created by the author ("Xoeris"). 
 
+Specifically, you are STRICTLY PROHIBITED from:
+  a) Copying, merging, or adapting the underlying code/logic into any other 
+     custom ROM, system modification, module, or software project.
+  b) Reverse-engineering, decompiling, or disassembling the proprietary 
+     elements of this Software to extract proprietary logic for redistribution.
+  c) Selling, sublicensing, or commercially exploiting any part of the Software.
+
+Any extraction or use of the custom code and logic contained within this ROM 
+for other software projects requires prior, explicit written permission from Xoeris.
+
+===============================================================================
+3. ATTRIBUTION
+===============================================================================
+The above copyright notice and this permission notice must remain intact in all 
+unmodified distributions of this Software.
+
+===============================================================================
+4. DISCLAIMER OF WARRANTY & LIABILITY
+===============================================================================
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
