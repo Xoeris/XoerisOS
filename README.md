@@ -1,5 +1,3 @@
-# XoerisOS2
-
 <img width="200" height="27" alt="XoerisOS4 Logo Text" src="https://github.com/user-attachments/assets/4124aeee-1af2-4d31-81cb-c0838a7ad5b4" />
 
 
