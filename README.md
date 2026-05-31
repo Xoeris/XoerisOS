@@ -105,5 +105,5 @@ Contributions are welcome. Please open an issue on the GitHub repository before 
 
 ### *License*
 
-This project is licensed under the MIT License.  
+This project is licensed. 
 See the LICENSE file for details.
