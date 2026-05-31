@@ -62,7 +62,11 @@ XoerisOS2 brings massive upgrades to the SystemUI framework, layout stability, a
 | Oppo     | Supported      |
 | Realme   | Supported      |
 | Vivo     | Not Supported  |
-
+| iQOO     | Not Supported  |
+| Samsung  | Not Supported  |
+| Lenovo   | Not Supported  |
+| Infinix  | Not Supported  |
+| Nubia    | Not Supported  |
 
 
 ---
